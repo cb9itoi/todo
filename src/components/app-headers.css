@@ -1,0 +1,12 @@
+.app-heder {
+    align-items: flex-end;
+}
+
+.app-heder h1 {
+    flex-grow: 1;
+}
+
+.app-heder h2 {
+    font-size: 1.2rem;
+    color: gray;
+}

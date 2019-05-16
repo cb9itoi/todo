@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import AppHeader from './components/app-header';
-import SerchPanel from './components/serch-panel';
+import SerchPanel from './components/search-panel';
 import TodoList from './components/todo-list';
 
 const App = () => {
