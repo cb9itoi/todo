@@ -10,7 +10,7 @@ export default class ItemAddForm extends Component {
                 <button
                     className="btn btn-outline-secondary"
                     onClick={() => this.props.onItemAdded('Новая задача')}>
-                    Add Item
+                    Добавить
                 </button>
             </div>
         )
